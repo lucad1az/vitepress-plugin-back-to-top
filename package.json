@@ -11,6 +11,7 @@
   "homepage": "https://github.com/wehuss/vitepress-plugin-back-to-top",
 
   "scripts": {
+    "prepare": "npm run build",
     "dev": "vite",
     "build": "vue-tsc && vite build && tsc",
     "preview": "vite preview"
