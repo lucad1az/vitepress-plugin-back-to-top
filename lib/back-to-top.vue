@@ -6,7 +6,7 @@
         viewBox="0 0 48 48"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
-        stroke="currentColor"
+        stroke="black"
         stroke-width="4"
         stroke-linecap="butt"
         stroke-linejoin="miter"
